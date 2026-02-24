@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi guys i'm Mizu
+Currently pursuing a Bachelor’s Degree in Cybersecurity Engineering at INACAP University of Technology.
 
 <!--
 **kodawarinizu/kodawarinizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
