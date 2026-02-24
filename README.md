@@ -1,17 +1,23 @@
-## Hi guys i'm Mizu
-Currently pursuing a Bachelor’s Degree in Cybersecurity Engineering at INACAP University of Technology.
+<div align="center">
 
-<!--
-**kodawarinizu/kodawarinizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🐈‍⬛ Hi, I'm Kodawarinizu
 
-Here are some ideas to get you started:
+**Cybersecurity Engineering Student** @ INACAP University of Technology  
+*Exploring the intersection of backend development and systems programming*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🎯 About Me
+
+Currently in my **2nd year** learning backend development through university while self-teaching systems programming.
+
+### 💻 Tech Stack
+```
+University          Self-Learning       Environment
+├─ Python          ├─ Rust             ├─ Arch Linux
+├─ Django          ├─ PostgreSQL       ├─ MySQL/MariaDB
+├─ React           └─ Game Servers     └─ Terminal Workflows
+└─ Oracle DB           (TF2/Source)
+```
